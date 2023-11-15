@@ -1,0 +1,106 @@
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  align-items: center;
+}
+
+.staytuned {
+  color: hsl(234, 29%, 20%);
+  font-weight: 700;
+  font-size: 43px;
+}
+
+.container1 {
+  display: flex;
+  margin-top: 35px;
+  align-items: center;
+}
+.container2 {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+.container3 {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.first-image {
+  height: 40px;
+  width: 40px;
+}
+
+.second-image {
+  height: 40px;
+  width: 40px;
+  margin-top: 10px;
+}
+
+.third-image {
+  height: 40px;
+  width: 40px;
+  /* margin-top: 20px; */
+}
+
+.join {
+  color: hsl(235, 18%, 26%);
+  font-weight: 400px;
+  /* margin-top: 35px; */
+  line-height: 25px;
+}
+
+.product {
+  margin-left: 25px;
+  color: hsl(235, 18%, 26%);
+  font-weight: 400;
+}
+.measuring {
+  color: hsl(235, 18%, 26%);
+  margin-left: 25px;
+  font-weight: 400;
+}
+
+.andmuch {
+  color: hsl(235, 18%, 26%);
+  margin-left: 25px;
+  font-weight: 400;
+}
+
+.email-address {
+  margin-top: 60px;
+  color: hsl(234, 29%, 20%);
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.email {
+  border: 1px solid rgba(0, 0, 0, 0.363);
+  border-radius: 7px;
+  margin-top: 20px;
+  background-color: white;
+  width: 320px;
+  height: 55px;
+  color: hsl(231, 7%, 60%);
+  text-align: start;
+  margin-left: 10px;
+}
+span {
+  margin-left: 15px;
+}
+
+.subscribe {
+  margin-top: 25px;
+  margin-left: 10px;
+  width: 320px;
+  height: 50px;
+  background-color: hsl(234, 29%, 20%);
+  border-radius: 7px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 700;
+}
+
+.float {
+  margin-left: 30px;
+}
